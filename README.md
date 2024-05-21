@@ -1,1 +1,3 @@
 # Bank-e-locker
+
+The Bank E-Locker Interface is a Python application utilizing Tkinter, serving as the graphical user interface (GUI) for a physical locker system offered by the bank that is made by us. Through this interface, users can interact with the physical locker system, securely storing and retrieving their important items. The program ensures robust user authentication to safeguard privacy and data integrity. Items are stored securely within the physical locker, with the GUI providing a seamless experience for users to upload and retrieve their items. This system enhances the efficiency and convenience of managing crucial items, contributing to a streamlined banking experience for users.
